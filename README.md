@@ -1,6 +1,6 @@
-# HELL - sHapE modeEer tooL
+# Object-Oriented 2D Modeling Tool
 
-HELL is a Java-based application designed to model and manipulate geometric shapes. It provides functionality to create, modify, and analyze various geometric shapes.
+This project is a Java-based application designed to model and manipulate geometric shapes. It provides functionality to create, modify, and analyze various geometric shapes.
 
 ## Features
 
